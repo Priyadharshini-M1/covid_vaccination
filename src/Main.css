@@ -1,0 +1,19 @@
+.container{
+    text-align: center;
+    display: flexbox;
+    height: 65vh;
+    width: 100%;
+    background: url('covid_image.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 250px;
+}
+.container-box{
+    width: 300px;
+    height: 200px;
+    border-radius: 20px;
+    background-color: aliceblue;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    margin-bottom: 300px;
+}

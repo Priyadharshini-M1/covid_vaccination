@@ -1,0 +1,29 @@
+.box{
+    text-align: center;
+    background-image: url('covid_image.jpg');
+    height: 35vh;
+    width: 70%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    padding: 15%;
+}
+.btn1{
+    height: 200px;
+}
+.addcenter{
+    height: 50px;
+    width: 200px;
+    font-size: large;
+    background-color:aquamarine;
+}
+.existingcenter{
+    height: 50px;
+    width: 200px;
+    font-size: large;
+    background-color:aquamarine;
+}
+button:hover{
+    background-color: aqua;
+}

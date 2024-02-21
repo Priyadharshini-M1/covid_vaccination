@@ -1,0 +1,77 @@
+.container{
+    text-align: center;
+    display: flexbox;
+    height: 500px;
+    width: 100%;
+    background: url('covid_image.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top: 250px;
+    font-size: small;
+}
+.container{
+    height: 200px;
+    margin-right: 200px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    background-color: aliceblue;
+    
+}
+
+.items{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    padding-left: 10px;
+    .btn{
+        margin: auto;
+        margin-top: 50px;
+        margin-left: 200px;
+        width: 80px;
+
+    }
+    .btn:hover{
+        background-color: green;
+    }
+}
+.gender{
+    display: flex;
+
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 65vh;
+  }
+  
+  .form-container {
+    display: flex;
+    background-color: aliceblue;
+    width: 300px;
+    margin-bottom: 300px;
+    padding-left: 20px;
+    border-radius: 10px;
+    height: 450px;
+  }
+  
+  .form {
+    margin-right: 20px;
+  }
+  
+  .submit-data {
+    background-color: aliceblue;
+    padding: 10px;
+    border-radius: 5px;
+    height: 480px;
+    width: 500px;
+  }
+
+
+  .slot-details{
+    background-color: aliceblue;
+  }
+  
